@@ -311,7 +311,6 @@ body {
   display: flex;
   gap: 24px;
   justify-content: center;
-  margin-right: 80px;
 }
 
 .socials-link {
@@ -724,6 +723,10 @@ body {
 .footer-btn:hover,
 .footer-btn:focus {
   background-color: var(--accent-bgc-color);
+}
+
+.footer-socials-list {
+  margin-right: 80px;
 }
 
 .footer-icon {
